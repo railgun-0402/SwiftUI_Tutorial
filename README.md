@@ -3,9 +3,9 @@ Swiftが少し久々なのとSwiftUIをやりたくなったので、公式の�
 リハビリ。
 
 ## develop
-・Swift5
-・Xcode15.0.1
-・iOS17.0
+- Swift5
+- Xcode15.0.1
+- iOS17.0
 
 ## overview
 以下の内容をチュートリアルで復讐する
